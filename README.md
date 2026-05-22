@@ -1,5 +1,12 @@
 # BioinfoMaestro 🧬
 
+![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Research-green?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Genomics-blueviolet?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 A personal portfolio and scientific blog website built using Jekyll and GitHub Pages.
 
 This website showcases my research journey, bioinformatics projects, publications, blogs, and academic work at the intersection of biology, machine learning, and computational genomics.
@@ -77,3 +84,11 @@ The website focuses on clean scientific aesthetics, responsive design, and acces
 ├── style.css
 ├── _config.yml
 └── README.md
+```
+---
+## License
+
+© Sakshi Sharma / BioinfoMaestro
+
+This repository and its contents are intended for personal and educational viewing only.  
+Unauthorized copying, redistribution, or reuse of website content, branding, or design is not permitted.
