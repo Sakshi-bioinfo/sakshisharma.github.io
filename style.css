@@ -514,6 +514,16 @@ background:white;
   background: rgba(230, 57, 70, 0.05);
 }
 
+.footer-copy {
+    text-align: center;
+    margin-top: 25px;
+    padding-bottom: 10px;
+    font-size: 0.85rem;
+    color: #cfcfcf;
+    letter-spacing: 0.5px;
+    opacity: 0.75;
+}
+
 /* =========================
    ABOUT PAGE
 ========================= */
