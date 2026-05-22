@@ -1,4 +1,12 @@
-# BioinfoMaestro 🧬
+<p align="center">
+  <img src="favicon.png" width="140">
+</p>
+
+<h1 align="center">BioinfoMaestro 🧬</h1>
+
+<p align="center">
+  Personal Portfolio & Scientific Blog Website
+</p>
 
 ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
