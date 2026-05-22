@@ -94,9 +94,12 @@ The website focuses on clean scientific aesthetics, responsive design, and acces
 └── README.md
 ```
 ---
-## License
+## Copyright & License
 
-© Sakshi Sharma / BioinfoMaestro
+© 2026 Sakshi Sharma / BioinfoMaestro. All Rights Reserved.
 
-This repository and its contents are intended for personal and educational viewing only.  
-Unauthorized copying, redistribution, or reuse of website content, branding, or design is not permitted.
+The content, design, branding, blogs, graphics, and source code of this website are protected by copyright law.
+
+No part of this repository or website may be copied, reproduced, redistributed, modified, or reused without explicit written permission from the author.
+
+This repository is publicly visible for portfolio and educational viewing purposes only.
